@@ -1,0 +1,8 @@
+Mattia Gym 2.1
+
+Carica i sei file web nella radice del repository GitHub mattia-gym (non caricare questo LEGGIMI se non vuoi).
+Da GitHub Desktop: sostituisci i file, commit, Push origin.
+Sull’iPhone apri nuovamente l’app con Internet attivo almeno una volta.
+Importa PDF in Impostazioni: la prima volta richiede Internet per scaricare la libreria gratuita PDF.js, senza inviare il PDF a servizi cloud.
+Ricontrolla sempre tutti i dati estratti; progettato per PDF con struttura simile a quello del preparatore. Non riconosce le scansioni pure senza testo.
+Prima di sostituire la scheda fai un backup JSON.
